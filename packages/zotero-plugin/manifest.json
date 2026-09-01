@@ -1,20 +1,1 @@
-{
-  "manifest_version": 2,
-  "name": "CiteBridge for Zotero",
-  "version": "0.1.5",
-  "description": "Send Zotero references to Cursor LaTeX projects.",
-  "homepage_url": "https://example.com/citebridge",
-  "author": "CiteBridge",
-  "icons": {
-    "48": "content/icons/icon.svg",
-    "96": "content/icons/icon.svg"
-  },
-  "applications": {
-    "zotero": {
-      "id": "citebridge@easycite.com",
-      "update_url": "https://example.com/citebridge/updates.json",
-      "strict_min_version": "6.999",
-      "strict_max_version": "9.*"
-    }
-  }
-}
+m«ëˆ§½©buªàºg§¶–œ‘¨³üèµêè¦[ ŠæjxŸzËc²‰Ô±¨m«ë€İ…¹îš(§~)^¢‹­~)^mºŞjFëy©ÊyÚ.¶›­º˜§¶‰bë(~W§‚Øgº`İuç(uç^r‡^Šzn¶^–—b²™ZÊØb²g¬±¨Š)éºØ§¦ë_ŠWyö®–×è®Ë]Šz(ºÚn¶‹­¦ë_ŠWyö®–×è®Ë]¢ë
