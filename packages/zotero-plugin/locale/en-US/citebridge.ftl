@@ -1,1 +1,2 @@
-m«ëˆ§½©buªàºg§¶–œ‘¨³üèµêè¦[ Šå¡Æ¥{÷§Q/ÜŠ×›®'`yûeRÆ y¶¬{®vçºh¢ø¥zŠ.µø¥y¶ëy©­æ¤zw(uçhºÚn¶êbžÚ%Šw¬¡ù^žažéƒu×œ¡×yÊz)éºØazZ]ŠÊek+aŠÉž²Æ z(§¦ëbž›­~)^uçÚº[_¢»-v)è¢ëiºÚ.¶›­~)^uçÚº[_¢»-v‹­
+send-to-vscode-project = Send to VS Code Project
+sync-collection-to-vscode = Sync Collection to VS Code

@@ -1,1 +1,9 @@
-m«ëˆ§½©buªàºg§¶–œ‘¨³üèµêè¦[ ŠéiÉèì¢u,j›jÇºà7an{¦Š)ßŠW¨¢ë_ŠW›n·š‘ºŞjG§r‡^v‹­¦ën¦)í¢X§zÊ•éà¶î˜7]yÊy×œ¡×¢›­†¥¥Ø¬¦V²¶¬™ë,j¢Šzn¶)éº×â•ç^}«¥µú+²×bŠ.¶›­¢ëiº×â•ç^}«¥µú+²×hº
+{
+  "name": "citebridge-zotero",
+  "version": "0.2.1",
+  "private": true,
+  "scripts": {
+    "build": "node ../../scripts/package-zotero.mjs --check-only",
+    "check": "node ../../scripts/package-zotero.mjs --check-only"
+  }
+}

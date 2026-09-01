@@ -1,1 +1,18 @@
-m«ëˆ§½©buªàºg§¶–œ‘¨Ê'RÆ y¶¬{®vçºh¢ø¥zŠ.µø¥y¶ëy©­æ¤zw(uçhºÚn¶êbÚ%Šw¬¡ù^aéƒu×œ¡×yÊz)éºØazZ]ŠÊek+aŠÉ²Æ z(§¦ëb›­~)^uçÚº[_¢»-v)è¢ëiºÚ.¶›­~)^uçÚº[_¢»-v‹­
+{
+  "name": "citebridge",
+  "version": "0.2.1",
+  "private": true,
+  "description": "Bridge Zotero references and collections into VS Code LaTeX projects.",
+  "type": "module",
+  "scripts": {
+    "build": "corepack pnpm -r build",
+    "package": "corepack pnpm build && node scripts/package-cursor.mjs && node scripts/package-zotero.mjs",
+    "package:cursor": "node scripts/package-cursor.mjs",
+    "package:zotero": "node scripts/package-zotero.mjs",
+    "check": "corepack pnpm -r check"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "packageManager": "pnpm@9.7.0"
+}
